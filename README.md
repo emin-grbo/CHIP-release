@@ -1,1 +1,1 @@
-# CHIP-releease
+# CHIP-release
