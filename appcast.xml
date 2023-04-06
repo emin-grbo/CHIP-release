@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>CHIP</title>
+        <item>
+            <title>3.2</title>
+            <pubDate>Thu, 06 Apr 2023 21:22:41 +0200</pubDate>
+            <sparkle:version>0</sparkle:version>
+            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/emin-grbo/CHIP-releease/releases/download/latest/CHIP.dmg" length="3772071" type="application/octet-stream" sparkle:edSignature="1gWx/TdVpinjpSYbQ+NUbolFKXQkrrqVdMEfOyrVQrxShpQQlzESnc35xN15co2fmESzlcEN4k+cHs3nuavPAA=="/>
+        </item>
+    </channel>
+</rss>
