@@ -3,12 +3,12 @@
     <channel>
         <title>CHIP</title>
         <item>
-            <title>3.2</title>
-            <pubDate>Fri, 07 Apr 2023 21:54:17 +0200</pubDate>
+            <title>3.3</title>
+            <pubDate>Tue, 11 Apr 2023 21:31:21 +0200</pubDate>
             <sparkle:version>0</sparkle:version>
-            <sparkle:shortVersionString>3.2</sparkle:shortVersionString>
+            <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://emin-grbo.github.io/CHIP-releease/CHIP.dmg" length="3774320" type="application/octet-stream" sparkle:edSignature="ZJ0HxUrOikTi5u6LdHnde6vR+MK2srZ3ni3NbHPb8BBty2ra0EUn49QBfh7Ii13hXax0h0IKEWVJq+DPWqRXCQ=="/>
+            <enclosure url="https://emin-grbo.github.io/CHIP-releease/CHIP.dmg" length="3161110" type="application/octet-stream" sparkle:edSignature="3qHeDi2zMBTR5g3/P1IZiK+AP5+SXAzz3mXyPGWbP4n9xty6BSWyB5ILi1EYU60WNI7c79TQrGgcRGGoFfqiCA=="/>
         </item>
     </channel>
 </rss>
