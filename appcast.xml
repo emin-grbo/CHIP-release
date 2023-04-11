@@ -8,7 +8,7 @@
             <sparkle:version>0</sparkle:version>
             <sparkle:shortVersionString>3.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://emin-grbo.github.io/CHIP-releease/CHIP.dmg" length="3161110" type="application/octet-stream" sparkle:edSignature="3qHeDi2zMBTR5g3/P1IZiK+AP5+SXAzz3mXyPGWbP4n9xty6BSWyB5ILi1EYU60WNI7c79TQrGgcRGGoFfqiCA=="/>
+            <enclosure url="https://github.com/emin-grbo/CHIP-release/releases/download/v3.3/CHIP.dmg" length="3161110" type="application/octet-stream" sparkle:edSignature="3qHeDi2zMBTR5g3/P1IZiK+AP5+SXAzz3mXyPGWbP4n9xty6BSWyB5ILi1EYU60WNI7c79TQrGgcRGGoFfqiCA=="/>
         </item>
     </channel>
 </rss>
